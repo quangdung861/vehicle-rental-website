@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yamaha Sirus 110cc",
+      "category": "Xe số",
+      "brand": "Yamaha",
+      "model": "2006",
+      "frameNumber": "01234567890123456",
+      "machineNumber": "01234567890123456",
+      "licensePlates": "43-H2-8888",
+      "status": "Mới"
+    },
+    {
+      "id": 2,
+      "name": "Honda Air Blade 125cc",
+      "category": "Xe ga",
+      "brand": "Honda",
+      "model": "2014",
+      "frameNumber": "01234567890123456",
+      "machineNumber": "01234567890123456",
+      "licensePlates": "43-F1-18264",
+      "status": "Cũ"
+    },
+    {
+      "id": 3,
+      "name": "Honda Vision",
+      "category": "Xe số",
+      "brand": "Honda",
+      "model": "2010",
+      "frameNumber": "01234567890123456",
+      "machineNumber": "01234567890123456",
+      "licensePlates": "43-C1-5555",
+      "status": "Mới"
+    }
+  ],
+  "orders": [
+    {
+      "start": "2023-01-09T09:34:28.615Z",
+      "end": "2023-01-11T09:34:32.067Z",
+      "fullName": "Phan Quang Dũng",
+      "phoneNumber": "0935411853",
+      "cmnd": "201888817",
+      "quantity": 1,
+      "priceFinish": 130000,
+      "totalPrice": 260000,
+      "productId": 1,
+      "id": 1
+    },
+    {
+      "start": "2023-01-09T09:34:28.615Z",
+      "end": "2023-01-24T09:34:32.067Z",
+      "fullName": "Huỳnh Thị Thảo Nguyên",
+      "phoneNumber": "033622189",
+      "cmnd": "201888817",
+      "quantity": 3,
+      "priceFinish": 100000,
+      "totalPrice": 4500000,
+      "productId": 1,
+      "id": 2
+    }
+  ]
+}
